@@ -1,0 +1,12 @@
+05 May 2011 03:44:26,784 DEBUG MetaStockConverter: Converting data..... 
+05 May 2011 03:44:33,133 DEBUG MetaStockConverter: Last id :  33687
+05 May 2011 03:44:40,363 DEBUG JDBCRTEData    : List Size : 0
+05 May 2011 03:44:40,373 DEBUG MetaStockConverter: 0 records are needed to be converted.
+05 May 2011 03:44:40,373 DEBUG MetaStockConverter: All the files are up-to dated..
+05 May 2011 03:44:40,373 DEBUG MetaStockConverter: Process Completed !!! 
+05 May 2011 03:49:10,391 DEBUG MetaStockConverter: Converting data..... 
+05 May 2011 03:49:15,959 DEBUG MetaStockConverter: Last id :  33687
+05 May 2011 03:49:23,280 DEBUG JDBCRTEData    : List Size : 0
+05 May 2011 03:49:23,280 DEBUG MetaStockConverter: 0 records are needed to be converted.
+05 May 2011 03:49:23,280 DEBUG MetaStockConverter: All the files are up-to dated..
+05 May 2011 03:49:23,280 DEBUG MetaStockConverter: Process Completed !!! 
